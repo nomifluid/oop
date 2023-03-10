@@ -1,0 +1,15 @@
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/obj/Debug/net6.0/samostatna_implementace_oop.csproj.AssemblyReference.cache
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/obj/Debug/net6.0/samostatna_implementace_oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/obj/Debug/net6.0/samostatna_implementace_oop.AssemblyInfoInputs.cache
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/obj/Debug/net6.0/samostatna_implementace_oop.AssemblyInfo.cs
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/obj/Debug/net6.0/samostatna_implementace_oop.csproj.CoreCompileInputs.cache
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/bin/Debug/net6.0/samostatna_implementace_oop
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/bin/Debug/net6.0/samostatna_implementace_oop.deps.json
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/bin/Debug/net6.0/samostatna_implementace_oop.runtimeconfig.json
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/bin/Debug/net6.0/samostatna_implementace_oop.dll
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/bin/Debug/net6.0/samostatna_implementace_oop.pdb
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/obj/Debug/net6.0/samostatna_implementace_oop.dll
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/obj/Debug/net6.0/refint/samostatna_implementace_oop.dll
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/obj/Debug/net6.0/samostatna_implementace_oop.pdb
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/obj/Debug/net6.0/samostatna_implementace_oop.genruntimeconfig.cache
+/Users/ever/Downloads/samostatna_implementace_oop/samostatna_implementace_oop/obj/Debug/net6.0/ref/samostatna_implementace_oop.dll
